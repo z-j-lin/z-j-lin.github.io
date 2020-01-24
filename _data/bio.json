@@ -17,19 +17,19 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "z-j-lin",
+        "url": "https://github.com/z-j-lin"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "ZJ Lin",
+        "url": "https://www.linkedin.com/in/zj-lin-8b4377a4/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Machine Learning",
       "keywords": [
         "Arduino",
         "TI MSP430"
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Software Engineering",
       "keywords": [
       ]
     }
