@@ -24,7 +24,7 @@ to inform the reader of all possible solutions you have tried and what you have 
 
 This is a example of a smart question from [StackExchange](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it). 
 
-<img class="ui large centered image" src="../images/smartquestion1.png">
+<img class="ui large centered image" src="../images/smartquestion1.PNG">
 The person asking the question, Mark clearly states the error they were getting and what they did to solve the error. This shows that mark 
 really did some research and thinking on this. Mark also stated what he hoped to find on google but couldn't which stated 
 what he wanted to know. This question is well worded and to the point, which resulted in a lot of responses. 
@@ -38,7 +38,7 @@ a question, like high school health class, there are bad questions. A bad questi
 prior work done, doesn't provide the reader with any headway in reaching a solution. The bad questions are what you would call a
 lazy question. Below is a lazy question found on [Sack Exchange](https://stackoverflow.com/questions/60000070/make-whitespace-bigger-with-css)
 
-<img class="ui large centered image" src="../images/badquestion.png">
+<img class="ui large centered image" src="../images/badquestion.PNG">
 
 This question doesn't demonstrate any prior research, or demonstrate any attempts at solving their problem. They didn't even say 
 they've looked on youtube, a lot of times a question like this can be solved by watching a video on youtube or simply by googling it. 
