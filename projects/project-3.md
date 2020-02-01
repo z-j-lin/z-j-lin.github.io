@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/NeuralNet.jpg
+image: images/NerualNet.jpg
 title: Hand Written Digit Recognition
 permalink: projects/machinelearning
 # All dates must be YYYY-MM-DD format!
