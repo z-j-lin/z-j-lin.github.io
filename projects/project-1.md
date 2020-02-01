@@ -3,11 +3,12 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: FIRST Robotics Competition 
-permalink: projects/micromouse
+permalink: projects/robotics
 # All dates must be YYYY-MM-DD format!
 date: 2014-02-06
 labels:
   - Robotics
+  - Engineering
   
 summary: My team designed and built a robot that was able to pick up a excercise ball and launch it into a goal 8 feet high.
 ---
