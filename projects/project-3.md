@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/NeuralNet.jpg
+title: Hand Written Digit Recognition
+permalink: projects/machinelearning
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Python
+  - Mnist
+  - Machine Learning
+summary: A machine learning algorithm that can recognize handwritten digit using linear regression.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
