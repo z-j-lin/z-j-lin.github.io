@@ -14,27 +14,14 @@ summary: My team designed and built a robot that was able to pick up a excercise
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/robot1.jpg">
   
 </div>
+The FIRST Robotics Competition releases a new game annually in which a team participating will have six weeks to design and build a 
+robot that can perform a certain task within 2 minutes. The game for the year 2014 was called Aerial Assist, the objective of the game was to pick up a excercise ball from one end of the field, pass the ball to each of your teammates, and then finaly score the ball in a goal eight feet tall. 
 
+For this project, I was the lead designer/project manager responsible for the integration of multiple subsystems of the robot. I started with producing a 3d model of the proposed design using a computer aided design software called Creo parametrics. with a detailed design of the robot I was able to break down each subsystem allowing work to be done in parallel between subsystems. While doing this project I've gained the skill of being able to split up a project between team members to get the work done fast and efficient.    
 
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
 
 
