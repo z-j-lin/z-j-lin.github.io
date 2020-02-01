@@ -13,8 +13,8 @@ labels:
 summary: My team designed and built a robot that was able to pick up a excercise ball and launch it into a goal 8 feet high.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/robot1.jpg">
+
+  <img class="ui image centered image" src="../images/robot1.jpg">
   
 </div>
 The FIRST Robotics Competition releases a new game annually in which a team participating will have six weeks to design and build a 
