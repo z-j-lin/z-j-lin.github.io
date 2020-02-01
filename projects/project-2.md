@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/rpie.jpg
 title: Automatic Fuel Changer for Bio Diesel Engines
-permalink: projects/raspberrypi
+permalink: projects/engine
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-15
 labels:
