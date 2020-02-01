@@ -10,16 +10,12 @@ labels:
   - Python
   - Raspberry Pi
   - Hawrdware Programing 
-summary: 
+summary: The goal of this project is to use a raspberry pi to automatically switch between fuels on a diesel engine using the general purpose input and output pins on the pi. 
 ---
+## Background
+Bio-diesel can burn in most diesel engines with minimum risk to engine failure. Failures in diesel engines from burning bio diesel is the result of un burned residue in the fuel injectors. To solve this issue we will burn bio diesel only when the temperature of the engine reaches a point where the fuel is burned at a higher temperature.  
 
-<img class="ui medium right floated rounded image" src="../images/
-vacay-home-page.png">
+For this project, I was the programmer responsible for writing the code to implement automatic engine start and fuel switching as well as a predefined shut off procedure. For the automatic engine start I used one of the GPIO ports to send out 3 second pulses signals to a relay controlling a starter motor when a user presses a start button. A wire tapped to the alternator of the engine provided the signal to let the program know that the engine started and that the starting sequece has beeen completed. 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In this project I gained experience with programming hardware in a highlevel scripting language. This was also my frist time writing a program to control hardware. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
