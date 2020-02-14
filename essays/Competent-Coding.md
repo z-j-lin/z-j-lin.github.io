@@ -27,7 +27,7 @@ formats, whenever a team member must use another's code, they would initially ha
 your code since they are not familiar with the formats that you use. This wasted a lot of time, and let's face it 
 no one wants to spend hours deciphering thousands of lines of code.
 
-##Coding is Communication 
+## Coding is Communication 
 
 I find that coding is similar to a spoken language, when we write we have a certain order of arranging words 
 so that the communication is clear between all parties communicating. I think not using correct coding standards 
