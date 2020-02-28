@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Fast UI
 # All dates must be YYYY-MM-DD format!
-date: 2020-2-27
+date: 2020-02-27
 labels:
   - Semantic UI
   - FrameWorks
