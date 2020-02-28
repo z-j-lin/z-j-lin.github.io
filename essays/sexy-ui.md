@@ -13,7 +13,7 @@ UI Framesworks is a bunch of tools that help you make professional looking websi
 hours of work. There are a lot of free frameworks like Semantic UI that give you various types of tools
 and some of them can be repetitive, so you should use something atleast once or twice so you know its available. The way I see it, the more tools you have in your trusty tool belt the better batman doesn't have just one tool in his belt.  
 
-<img class="ui centered image" src="https://pop-verse.com/wp-content/uploads/2013/10/ian-mckellen-gandalf-the-grey-the-hobbit-pic2.jpg">
+<img class="ui centered image" style="width:300px; height="300px" src="https://pop-verse.com/wp-content/uploads/2013/10/ian-mckellen-gandalf-the-grey-the-hobbit-pic2.jpg">
 
 
 ## RAW HTML AND CSS
