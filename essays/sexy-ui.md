@@ -5,7 +5,7 @@ title: Fast UI
 # All dates must be YYYY-MM-DD format!
 date: 2020-2-27
 labels:
-  - Forums
+  - Semantic UI
   - FrameWorks
 ---
 ## IS IT WORTH LEARNING UI FRAMEWORKS?
