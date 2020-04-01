@@ -14,8 +14,14 @@ It is a known fact that good restaurants and bars usually have long wait times i
 
 ## Approach
 
+This project is similar to grubhub such that users can order and pay for food on their mobile device and similarity ends there, the following is a list of things that make our platform great:
 
+> * order and have your food brought to your table eliminating multiple trips for wait staff 
+> * The users can set limits on spending so they don't overspend.
+> * Order drinks or request services in restaurants 
 
+The features above is intended to eliminate as much interaction between wait staff and customer. The goal is to make the customer feel like, their food appeared in front of them magically. 
+This also allow the restaurant to spend more of their man power moving goods since that is what makes the money. 
 ## Mockup page ideas
 Some possible mockup pages include:
 > * Landing page 
