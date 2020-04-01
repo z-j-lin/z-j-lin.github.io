@@ -25,7 +25,7 @@ Some possible mockup pages include:
 > * Billing page 
 > * Restaurant critique page
 
-##Use case idea
+## Use case idea
 Some user scenarios:
 > * New users visiting the page for the first can either make an account or use the service without an account.
 > * In the landing page they have the option to scan a QR code on their table or use the option to look up the restaurant manually. 
@@ -37,7 +37,7 @@ Some user scenarios:
 > * In the billing page users can also set spending limits, and request services from the wait staff.
 > * Users can leave comments on the critique page. 
 
-##Beyond the Basics  
+## Beyond the Basics  
   
 After implementing the basic functionality, here are ideas for more advanced features:
 > * Restaurant Suggestions based on previous orders using machine learning
