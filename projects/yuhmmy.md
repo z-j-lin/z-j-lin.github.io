@@ -10,7 +10,7 @@ labels:
   - React
   - MongoDB
   - Javascript
-summary: A machine learning algorithm that can recognize handwritten digit using linear regression.
+summary: yUHmmy is an app built to improve the dine-in experience for customers and restaurant owners. yUHmmy allows customers to order food, drinks and request for service with a tap on their screen.
 ---
 
 <img class="ui image centered image" src="../images/yuhmmy-landing.png">
