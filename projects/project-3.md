@@ -5,7 +5,7 @@ image: images/NerualNet.jpg
 title: Handwritten Digit Recognition
 permalink: projects/machinelearning
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-04-12
 labels:
   - Python
   - Mnist
