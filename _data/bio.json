@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "ZJ Lin",
-    "label": "Student",
+    "label": "Computer Engineering Graduate",
     "picture": "https://z-j-lin.github.io/images/zjlin.jpg",
     "email": "zijunlin@hawaii.edu",
     "phone": "",
     "website": "https://z-j-lin.github.io",
-    "summary": "I am student studying computer engineering at the University of Hawaii. I expect to graduate in Fall, 2020.",
+    "summary": "I am a computer engineer with interest in Robotics, Software Engineering, Data Science, Control Systems, and Cyber Security",
     "location": {
       "address": "",
       "postalCode": "96826",
