@@ -1,6 +1,6 @@
 layout: project
 type: project
-image: images/yuhmmy-landing.png
+image: images/aeroponics.jpg
 title: IOT Aeroponics Machine Learning Data Collection
 permalink: projects/aerolly
 # All dates must be YYYY-MM-DD format!
