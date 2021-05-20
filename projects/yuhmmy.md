@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/yuhmmy-landing.png
 title: yUHmmy
-permalink: projects/machinelearning
+permalink: projects/yUHmmy
 # All dates must be YYYY-MM-DD format!
 date: 2015-05-15
 labels:
