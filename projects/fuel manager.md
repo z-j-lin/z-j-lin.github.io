@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/rpie.jpg
-title: Automatic Fuel Changer for Bio Diesel Engines
+title: Automated Fuel Manager for Bio Diesel Engines
 permalink: projects/engine
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-15
