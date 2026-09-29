@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "ZJ Lin",
-    "label": "Computer Engineering Graduate",
+    "label": "Senior Blockchain Engineer & Consultant",
     "picture": "https://z-j-lin.github.io/images/zjlin.jpg",
-    "email": "zijunlin@hawaii.edu",
+    "email": "zijunlin32@gmail.com",
     "phone": "",
     "website": "https://z-j-lin.github.io",
-    "summary": "I am a computer engineer with interest in Robotics, Software Engineering, Data Science, Control Systems, and Cyber Security",
+    "summary": "Senior blockchain engineer specializing in Go, Solidity, DeFi infrastructure, and asset tokenization. Experienced in protocol integrations, transaction safety, and cross-functional technical leadership.",
     "location": {
       "address": "",
-      "postalCode": "96826",
-      "city": "Honolulu",
+      "postalCode": "",
+      "city": "",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": ""
     },
     "profiles": [
       {
@@ -23,106 +23,101 @@
       {
         "network": "linkedin",
         "username": "ZJ Lin",
-        "url": "https://www.linkedin.com/in/zj-lin-8b4377a4/"
+        "url": "https://www.linkedin.com/in/zj-lin/"
       }
     ]
   },
   "interests": [
     {
-      "name": "Machine Learning",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+      "name": "DeFi infrastructure",
+      "keywords": ["Protocol integrations", "Execution systems"]
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
+      "name": "Asset tokenization",
+      "keywords": ["Real-world assets", "On-chain asset management"]
     },
     {
-      "name": "Control Systems",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Software Engineering",
-      "keywords": [
-      ]
+      "name": "Transaction safety",
+      "keywords": ["Risk controls", "Adversarial testing"]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Javascript",
-        "Python"
-      ]
+      "keywords": ["Go (Golang)", "Solidity", "TypeScript", "JavaScript", "Rust"]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Backend & Web",
       "level": "",
-      "keywords": [
-        "Microsoft Windows",
-        "Ubuntu",
-        "Git/GitHub",
-      ]
+      "keywords": ["NestJS", "Express.js", "React", "REST APIs", "PostgreSQL", "GORM", "Sequelize"]
+    },
+    {
+      "name": "Blockchain & Testing",
+      "level": "",
+      "keywords": ["Ethereum", "Uniswap V2/V3", "Curve", "Stake DAO", "Morpho", "ERC-20/721/4626", "Foundry", "Hardhat", "Anvil"]
+    },
+    {
+      "name": "Cloud & Operations",
+      "level": "",
+      "keywords": ["AWS", "Google Cloud", "Docker", "Git", "CI/CD", "Fireblocks", "InfluxDB"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall, 2020)",
+      "institution": "University of Hawaii at Manoa",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
-      "startDate": "2014-09-01",
-      "endDate": "Present",
+      "startDate": "",
+      "endDate": ""
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Physics Department Instrument Developement Lab",
-      "position": "Mechanical Designer/ Assistant Machinist",
-      "startDate": "2016-08-01",
-      "endDate": "2017-09-01",
-      "summary": "Worked alongside graduate students to develope hardware for experiments",
+      "company": "Dollar Foundation (BTCD)",
+      "position": "Senior Blockchain Engineer",
+      "startDate": "2025-09-11",
+      "endDate": "Present",
+      "summary": "Building production DeFi execution infrastructure in Go and Solidity.",
       "highlights": [
-        "Built a Light tight box for a experiment to detect muons"
+        "Built atomic Curve peg-arbitrage systems using own-capital and Morpho flash-loan funding.",
+        "Ported Curve TwoCrypto and vault-minting math to byte-exact Go implementations with differential, fuzz, and EVM execution testing.",
+        "Integrated Curve and Stake DAO strategies and hardened execution with minimum-output checks, typed reverts, telemetry, and circuit breakers."
       ]
     },
     {
-      "company": "Precision Machinery",
-      "position": "Shop assistant",
-      "startDate": "2019-01-01",
-      "endDate": "present",
-      "summary": "I am one of the CNC operators, that manufacture custom parts that fit their specifications",
+      "company": "Qenta",
+      "position": "Blockchain Software Engineer",
+      "startDate": "2023-09-01",
+      "endDate": "Present",
+      "summary": "Designing smart-contract frameworks and leading delivery for asset tokenization and automated market systems.",
       "highlights": [
-        "Managed a job from design to finish.",
-        "Operated a CNC Waterjet cutter",
-        "programed a part to cut on a 3-axis CNC Mill" 
+        "Designed Ethereum frameworks for real-world-asset tokenization and on-chain asset management.",
+        "Led a six-person cross-functional team building a Uniswap V2/V3 arbitrage system.",
+        "Established Solidity standards, security practices, and engineering workflows."
+      ]
+    },
+    {
+      "company": "AliceNet",
+      "position": "Backend Engineer",
+      "startDate": "2023-04-01",
+      "endDate": "2024-06-01",
+      "summary": "Developed APIs and blockchain-backed fintech integrations.",
+      "highlights": [
+        "Built REST APIs, NFT-based certificates of authenticity, identity verification, and financial-product smart-contract prototypes."
+      ]
+    },
+    {
+      "company": "MadHive",
+      "position": "Full Stack Blockchain Engineer",
+      "startDate": "2021-10-01",
+      "endDate": "2023-04-01",
+      "summary": "Built smart-contract infrastructure for Layer 2 ecosystems.",
+      "highlights": [
+        "Developed deterministic deployment factories, role-based access controls, validator staking contracts, and ERC-20 native-token support."
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "First Place",
-      "date": "2014",
-      "awarder": "FIRST Robotics",
-      "summary": "My team won first place in the 2014 Texas Alamo Regional"
-    },
-    {
-      "title": "First place",
-      "date": "2013",
-      "awarder": "FIRST Robotics",
-      "summary": "My team won first place in the 2013 Hawaii Regional"
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+  "awards": [],
+  "references": []
 }

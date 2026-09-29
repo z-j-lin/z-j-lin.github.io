@@ -3,36 +3,22 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#121714">
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
 
-  <title>
-    {% if page.title %}
-      {{ page.title }} |
-    {% endif %}
-    {{ site.title }}
-  </title>
+  <title>{% if page.title %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
 
-  <!-- Load Javascript and CSS for Semantic UI -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@1,6..72,500&display=swap" rel="stylesheet">
+
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
   <script src="{{ site.baseurl }}/css/semantic-ui/semantic.min.js"></script>
   <link rel="stylesheet" href="{{ site.baseurl }}/css/semantic-ui/semantic.min.css">
-
-  <!-- Load Techfolio CSS customizations -->
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/stylesheet-default.css">
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/stylesheet-customizations.css">
-
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/print-default.css" media="print">
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/print-customizations.css" media="print">
-
-  <!-- Load a rouge theme from the sample themes in css/rouge.
-       See https://benhur07b.github.io/2017/03/25/add-syntax-highlighting-to-your-jekyll-site-with-rouge.html
-  -->
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/rouge/{{ site.rouge-theme}}.css">
-
-  <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
-  {% if site.mathjax %}
-  <script type="text/javascript"
-          src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-  {% endif %}
-
-
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/stylesheet-default.css">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/stylesheet-customizations.css">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/print-default.css" media="print">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/print-customizations.css" media="print">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/rouge/{{ site.rouge-theme}}.css">
+  <link rel="icon" href="{{ site.baseurl }}/favicon.ico">
 </head>
