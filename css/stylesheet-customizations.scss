@@ -1573,3 +1573,33 @@ a:focus-visible {
   .outcome-row { gap: 4px; }
   .outcome-row span { padding: 4px 5px; font-size: 7px; }
 }
+
+/* Contrast pass: small labels must remain legible over dark and offset surfaces. */
+.portrait-caption {
+  position: relative;
+  z-index: 1;
+  margin-top: 0;
+  padding: 14px;
+  border: 1px solid var(--ink);
+  border-top: 0;
+  background: var(--night);
+  color: var(--paper-bright);
+}
+
+.system-footer,
+.node-label,
+.metric-chip span,
+.proof-list > *,
+.service-meta,
+.footer-inner > p {
+  color: rgba(255,255,255,.76);
+}
+
+.flow-line span,
+.hero-proof dt {
+  color: rgba(255,255,255,.68);
+}
+
+.outcome-row span {
+  color: rgba(255,255,255,.82);
+}
