@@ -5,6 +5,10 @@
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="theme-color" content="#121714">
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}">
+  <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
 
   <title>{% if page.title %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
 
@@ -21,4 +25,5 @@
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/print-customizations.css" media="print">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/rouge/{{ site.rouge-theme}}.css">
   <link rel="icon" href="{{ site.baseurl }}/favicon.ico">
+  <noscript><style>.reveal{opacity:1!important;transform:none!important}</style></noscript>
 </head>
